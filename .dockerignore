@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Exclude
+!main.py
+!database.py
+!models.py
+!schema.py
+!tasks.py
+!init.sql
+!requirements.txt 
+!.env
